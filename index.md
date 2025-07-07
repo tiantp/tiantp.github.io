@@ -4,20 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a computer vision researcher who has worked on perception for outdoor
+robotics (GE), autonomous driving (Apple, Inceptio), content understanding
+for recommendation systems (Meta), integrity and safety (Meta). 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** viusal language Models, multi-modal Embeddings
+- **Autonomous Driving:** perception, lidar point clouds, image fusion, object tracking
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[2025]** Our paper on online backfilling for large scale retrieval accepted in WACV 205.
+- **[2025]** Our paper on unsupervised propting for vision language model accepted in ECCV 2024 (Oral). 
+- **[2025]** Our paper on fine grained video representation learning accepted in FGVC workshop (CVPRW). 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
