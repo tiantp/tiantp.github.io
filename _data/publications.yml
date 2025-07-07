@@ -1,6 +1,6 @@
 main:
 
-  - title: uCAP: An Unsupervised Prompting Method for Vision-Language Models
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: "uCAP: An Unsupervised Prompting Method for Vision-Language Models"
+    authors: A Tuan Nguyen, Kai Sheng Tai, Bor-Chun Chen, Satya Narayan Shukla, Hanchao Yu, Philip Torr, TTai-Peng Tian, Ser-Nam Lim
     conference_short: ECCV 
     pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09508.pdf 
